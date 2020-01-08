@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1b7addc-251a-4a92-a043-b2058057d098" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Wechat mini program component js file" />
+        <option value="Wechat mini program component json file" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/config/config.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/home/home.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/home/home.wxml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1UgNKyIeou6iXmCAhNiid9QfVps" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\PC_MHH\WeChatProjects\c-sleeve\wxs" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b7addc-251a-4a92-a043-b2058057d098" name="Default Changelist" comment="" />
+      <created>1575774219283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575774219283</updated>
+      <workItem from="1575774223414" duration="1206000" />
+      <workItem from="1575776137094" duration="690000" />
+      <workItem from="1575979288239" duration="67000" />
+      <workItem from="1575979375487" duration="4087000" />
+      <workItem from="1576152486722" duration="2774000" />
+      <workItem from="1576234631927" duration="9519000" />
+      <workItem from="1576499068024" duration="2766000" />
+      <workItem from="1576585550264" duration="3191000" />
+      <workItem from="1576668375092" duration="5729000" />
+      <workItem from="1576751914556" duration="7151000" />
+      <workItem from="1576841400897" duration="5680000" />
+      <workItem from="1577277631522" duration="1117000" />
+      <workItem from="1577356766188" duration="298000" />
+      <workItem from="1577357177041" duration="7648000" />
+      <workItem from="1577498001416" duration="7012000" />
+      <workItem from="1577510558943" duration="3438000" />
+      <workItem from="1577521280548" duration="5256000" />
+      <workItem from="1577581625263" duration="9320000" />
+      <workItem from="1577870213591" duration="208000" />
+      <workItem from="1577952945348" duration="911000" />
+      <workItem from="1577965181373" duration="670000" />
+      <workItem from="1578048952216" duration="7719000" />
+      <workItem from="1578289162601" duration="283000" />
+      <workItem from="1578310883155" duration="5652000" />
+      <workItem from="1578392055434" duration="9595000" />
+      <workItem from="1578471114050" duration="6998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="33" key="#Inspections" timestamp="1575982618734">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="562" y="33" key="#Inspections/0.0.1376.744@0.0.1376.744" timestamp="1575982618734" />
+    <state x="477" y="215" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1576586758279">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="477" y="215" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1475.799@0.0.1475.799" timestamp="1576586758279" />
+    <state x="480" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577358575886">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="480" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1475.799@0.0.1475.799" timestamp="1577358575886" />
+    <state x="499" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1578050733849">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="499" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1475.799@0.0.1475.799" timestamp="1578050733849" />
+    <state x="396" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577870242625">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="369" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1376.744@0.0.1376.744" timestamp="1575979337255" />
+    <state x="396" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1475.799@0.0.1475.799" timestamp="1577870242624" />
+    <state x="377" y="138" key="EditFileWatcherDialog" timestamp="1575776665601">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="377" y="138" key="EditFileWatcherDialog/0.0.1376.744@0.0.1376.744" timestamp="1575776665601" />
+    <state x="491" y="188" key="FileChooserDialogImpl" timestamp="1577966317925">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="491" y="188" key="FileChooserDialogImpl/0.0.1475.799@0.0.1475.799" timestamp="1577966317925" />
+    <state x="288" y="114" key="IDE.errors.dialog" timestamp="1577358304776">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="269" y="106" key="IDE.errors.dialog/0.0.1376.744@0.0.1376.744" timestamp="1575982175604" />
+    <state x="288" y="114" key="IDE.errors.dialog/0.0.1475.799@0.0.1475.799" timestamp="1577358304776" />
+    <state x="115" y="43" width="1236" height="707" key="SettingsEditor" timestamp="1578396822719">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="244" y="4" key="SettingsEditor/0.0.1376.744@0.0.1376.744" timestamp="1576024429898" />
+    <state x="115" y="43" width="1236" height="707" key="SettingsEditor/0.0.1475.799@0.0.1475.799" timestamp="1578396822719" />
+    <state x="850" y="183" key="run.anything.popup" timestamp="1578475053103">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="850" y="183" key="run.anything.popup/0.0.1475.799@0.0.1475.799" timestamp="1578475053103" />
+    <state x="806" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1578476264207">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="806" y="121" width="672" height="678" key="search.everywhere.popup/0.0.1475.799@0.0.1475.799" timestamp="1578476264207" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+@import "../../wxss/sleeve.wxss";
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40rpx;
+    background-color: #FFFFFF;
+}
+
+.title {
+    width: 690rpx;
+    height: 90rpx;
+}
+
+.inner-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.left {
+    width: 346rpx;
+    height: 522rpx;
+    display: flex;
+}
+
+.right-size {
+    width: 400rpx;
+    height: 260rpx;
+    display: flex;
+}
